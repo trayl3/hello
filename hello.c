@@ -1,5 +1,5 @@
 /**
- * Author: Tyler Rayl, Mason Filter
+ * Author: Tyler Rayl
  *         trayl3@huskers.unl.edu
  * Date: 2022/08/23
  *
@@ -12,7 +12,9 @@
 int main(int argc, char **argv) {
 
   printf("Hello World!\n");
-  printf("Tyler Rayl and Mason Filter!\n");
+  printf("Tyler Rayl!\n");
+  printf("Electrical Engineering\n");
+  printf("Mason Filter!\n");
   printf("Electrical Engineering\n");
 
   return 0;
